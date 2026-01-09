@@ -15,19 +15,31 @@ scanner and protocol variability, acquisition artifacts, and incomplete MRI cont
 
 ## Publication and Citation
 
-**Publication**
+### Publications
 
 Zhang et al.,  
 **UNISELF: A Unified Network with Instance Normalization and Self-Ensembled Lesion Fusion for Multiple Sclerosis Lesion Segmentation**,  
 *Medical Image Analysis*, 2026.
 
-**Citation**
+Zhang et al.,  
+**Towards an Accurate and Generalizable Multiple Sclerosis Lesion Segmentation Model Using Self-Ensembled Lesion Fusion**,  
+*IEEE International Symposium on Biomedical Imaging*, 2024.
+
+### Citation
 ```bibtex
 @article{zhang2026uniself,
   title   = {UNISELF: A Unified Network with Instance Normalization and Self-Ensembled Lesion Fusion for Multiple Sclerosis Lesion Segmentation},
   author  = {Zhang, Jinwei and Zuo, Lianrui and Dewey, Blake E. and Remedios, Samuel W. and Liu, Yihao and Hays, Savannah P. and Pham, Dzung L. and Mowry, Ellen M. and Newsome, Scott D. and Calabresi, Peter A. and Saidha, Shiv and Carass, Aaron and Prince, Jerry L.},
   journal = {Medical Image Analysis},
   year    = {2026}
+}
+@inproceedings{zhang2024towards,
+  title={Towards an accurate and generalizable multiple sclerosis lesion segmentation model using self-ensembled lesion fusion},
+  author={Zhang, Jinwei and Zuo, Lianrui and Dewey, Blake E and Remedios, Samuel W and Pham, Dzung L and Carass, Aaron and Prince, Jerry L},
+  booktitle={2024 IEEE International Symposium on Biomedical Imaging (ISBI)},
+  pages={1--5},
+  year={2024},
+  organization={IEEE}
 }
 ```
 
