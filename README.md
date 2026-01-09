@@ -96,7 +96,7 @@ Before running UNISELF, the following minimal preprocessing steps are required:
 conda create -n uniself_msseg python=3.8
 conda activate uniself_msseg
 
-git clone https://github.com/your-org/uniself.git
+git clone https://github.com/Jinwei1209/UNISELF.git
 cd uniself
 pip install .
 ```
